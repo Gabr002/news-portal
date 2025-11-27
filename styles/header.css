@@ -21,4 +21,5 @@
     padding-block: 14px;
     border: solid 1px var(--strake-color);
     border-inline: none;
+    justify-content: space-beetween;
 }
