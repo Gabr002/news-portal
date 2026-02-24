@@ -1,10 +1,10 @@
 <p align="center">
-Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocketseat.
+Projeto de um Portal de notícias
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://gabr002.github.io/news-portal/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -17,7 +17,6 @@ Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocke
 <p align="center">
   <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="60%">
 </p>
-
 
 ## 🚀 Tecnologias
 
